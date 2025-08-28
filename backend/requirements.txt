@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+opal_auth_backend @ git+https://github.com/opalsuite/opal-auth-backend.git@0.1.0#egg=opal_auth_backend
+opal_shared_utils @ git+https://github.com/opalsuite/opal-shared-utils.git@0.1.0#egg=opal_shared_utils
